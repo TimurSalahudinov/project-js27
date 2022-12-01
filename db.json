@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "details": "fgdfg",
+      "price": "4444",
+      "quantity": "sdfsdf",
+      "category": "dsfsdf",
+      "sale": "333",
+      "urlImg": "sdfs",
+      "id": 1
+    },
+    {
+      "details": "erwer",
+      "price": "333",
+      "quantity": "sdfsdf",
+      "category": "3sf",
+      "sale": "33",
+      "urlImg": "sfsf",
+      "id": 2
+    },
+    {
+      "details": "sef",
+      "price": "333",
+      "quantity": "sdfsf",
+      "category": "333",
+      "sale": "3333",
+      "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_v6rn22QsrRWkKmCvCdap8vVbcyFz0Layg&usqp=CAU",
+      "id": 3
+    }
+  ]
+}
